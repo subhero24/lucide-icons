@@ -1,0 +1,17 @@
+{
+	"name": "lucide-icons",
+	"version": "0.0.1",
+	"description": "Lucide icons as React components",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Bruno Van Damme",
+	"license": "MIT",
+	"devDependencies": {
+		"@svgr/core": "^6.5.1",
+		"fs-extra": "^11.1.0"
+	}
+}
